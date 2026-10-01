@@ -15,3 +15,7 @@ git push -u origin main
 git remote add origin https://github.com/jubayercode/my_first_github_repo_2026.git
 git branch -M main
 git push -u origin main
+
+-----------------------
+after edit push test 1
+-----------------------
